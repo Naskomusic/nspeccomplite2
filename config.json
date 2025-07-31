@@ -1,8 +1,8 @@
 [
   {
-    "name": "N-TILT",
+    "name": "N-SPEC COMP LITE 2",
     "author": "Nasko",
-    "path": "Plugins/N-TILT.zip",
+    "path": "Plugins/N-SPEC COMP LITE 2.zip",
     "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
     "type": "fx",
     "enable_gem": false,
